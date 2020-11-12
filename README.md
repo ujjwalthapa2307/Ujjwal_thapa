@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my portfolio website which is similar to Resume. 
 
-Things you may want to cover:
+This portfolio is deployed by heroku 
+The link is below in order to see the output of the project.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://ujjwalthapa.herokuapp.com/?fbclid=IwAR3EqgjuDDODygGkAGJ1hikZzLgRoIz4DGir1DRkA5xsrZ5A3KULQigisLA
